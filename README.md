@@ -5,8 +5,9 @@ The cap included a blinking multicolor LED, a button to turn on and off the LED,
 
 The LCD screen had the stock price of SpaceX (albeit it is private—so not traded in realtime), the current uptime of the program (I think it reached over 10,000 seconds during my graduation, even though I unplugged and plugged it in again halfway through), and the current temperature from a voltage sensor (which wasn't following other formulas to convert to temperature, so I made a quick experimentally derived equation, which was also inaccurate).
 
-![A picture of my graduation cap. If it didn't load, look in the images folder](/images/gradCap.jpg "Graduation cap picture")
-
+<p align="left">
+    <img src="images/gradCap.jpg" height="600">
+</p>
 I had a wire running down my back (for the power) the whole time.
 
 Also, my grandma took these incredible shots of me with the cap:
